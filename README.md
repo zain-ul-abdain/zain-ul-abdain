@@ -24,11 +24,11 @@ Both are tested against SQLite, PostgreSQL and MySQL, with CI across PHP 8.2–8
 
 #### Also building
 
-**[SchoolNinty](https://schoolninty.com)** — multi-tenant school management SaaS. Sole engineer, architecture through production. Laravel 13, PHP 8.4, Inertia + Vue 3, PostgreSQL, Redis, 1,486 tests.
+**[SchoolNinty](https://schoolninty.com)** — multi-tenant school management SaaS. Sole engineer, architecture through production. Laravel 13, PHP 8.4, Inertia + Vue 3, PostgreSQL, Redis, 2,200+ backend tests.
 
 ---
 
-**Stack** · PHP · Laravel · Vue 3 · TypeScript · PostgreSQL · MySQL · Redis · Elasticsearch · Docker · AWS
+**Stack** · PHP · Laravel · Vue 3 · PostgreSQL · MySQL · Redis · Elasticsearch · Docker · AWS
 
 **Dubai, UAE** — open to senior backend roles, and to contract work on payments integration specifically: Stripe Connect marketplaces, multi-gateway consolidation, or a webhook pipeline that's double-processing.
 
